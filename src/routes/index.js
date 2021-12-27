@@ -3,7 +3,7 @@ const { Router}= require('express');
 const router = Router();
 const admin = require('firebase-admin')
 require('dotenv').config()
-var serviceAccount = require("../../node-firebase-test-fb4db-firebase-adminsdk-4k1nh-1ed50eebfa.json");
+var serviceAccount = require(process.env.DB_SERVICE );
 admin.initializeApp({
     credential:admin.credential.cert(serviceAccount),
     databaseURL: process.env.DB_URL
