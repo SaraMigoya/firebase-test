@@ -2,11 +2,11 @@
 Is a simple exercise to create, get and delete contacts using Firebase Databse with a simple UI usin bootstrap
 
 ##Stack 
--Frrebase
--Node js
--Express
--Handlebars
--Bootstrap
+- Firebase
+- Node js
+- Express
+- Handlebars
+- Bootstrap
 
 ##Envinroment setup
 
