@@ -1,5 +1,5 @@
 # node-firebase-test
-Is a simple exercise to create, get and delete contacts using Firebase Databse with a simple using UI 
+Is a simple exercise to create, get and delete contacts using Firebase Databse with a simple UI usin bootstrap
 
 ##Stack 
 -Frrebase
